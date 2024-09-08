@@ -8,7 +8,7 @@ This project is created and maintained by Analytics Vidhya. The core idea behind
     1. It must save time.
     1. Includes lesser lines of code.
     1. Provides more functionality.
-    1. A better tool or library than an existing one.
+    1. A better tool or library than an existing one...
 
 1. The hacks must be related to data science, machine learning, data engineering or any of the related fields
 
